@@ -1,0 +1,22 @@
+html{
+    background-color: rgb(244, 206, 81);
+    margin: 0%;
+    padding: 0%;
+}
+
+.content{
+    background-color: white;
+    box-sizing: border-box;
+    border: 5px solid  rgb(46, 44, 44);
+    border-radius: 15px;
+    display: block;
+    margin: auto;
+    width: 500px;
+    left: center;
+    height: auto;
+}
+.offscreen{
+    position: absolute;
+    left: -1000px;
+}
+
